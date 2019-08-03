@@ -32,6 +32,8 @@ IM即时消息独立组件，可快速组装至项目中应用
 
   s.source_files = 'KWJMessager/Classes/**/*'
   
+  s.static_framework = true
+  
   # s.resource_bundles = {
   #   'KWJMessager' => ['KWJMessager/Assets/*.png']
   # }
