@@ -22,7 +22,7 @@
 #import "WormImgPreviewController.h"
 #import "KWLoactionMapSelector.h"
 #import <AVFoundation/AVFoundation.h>
-#import <TZImagePickerController.h>
+#import <TZImagePickerController/TZImagePickerController.h>
 #import "PrefixHeader.pch"
 #define kFetchMsgLimit 20  //每次拉取最新多少条数据
 
