@@ -13,7 +13,7 @@
 #import "KWChatRoomController.h"
 #import "MesageModel.h"
 #import "PrefixHeader.pch"
-#import <YWHttpClient.h>
+#import <KWHttpManager/YWHttpClient.h>
 
 @interface KWMessageCenterController ()
  <UITableViewDelegate,UITableViewDataSource>
