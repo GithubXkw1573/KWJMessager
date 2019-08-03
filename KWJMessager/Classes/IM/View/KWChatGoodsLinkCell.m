@@ -287,7 +287,7 @@
 
 - (void)layoutSubviews {
     [super layoutSubviews];
-    [self.sendLinkBtn imagePositionStyle:ImagePositionStyleRight spacing:4];
+    //[self.sendLinkBtn imagePositionStyle:ImagePositionStyleRight spacing:4];
 }
 
 
