@@ -12,7 +12,7 @@
 #import <KWPublicUISDK/PublicHeader.h>
 #import <KWCategoriesLib/NSArray+Safe.h>
 #import <KWCategoriesLib/UIView+Common.h>
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 
 @interface LKRecordView()
 @property (nonatomic, strong) UIImageView *imgV;

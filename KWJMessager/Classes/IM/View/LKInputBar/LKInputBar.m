@@ -16,7 +16,7 @@
 #import <KWPublicUISDK/PublicHeader.h>
 #import <KWCategoriesLib/NSArray+Safe.h>
 #import <KWCategoriesLib/UIView+Common.h>
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 #define LKNaviHeight ((SCREEN_HEIGHT > 800?YES:NO)?88:64)
 #define LKTextView_MaxHeight 80
 #define LKTextView_MinHeight 36
